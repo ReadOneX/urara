@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme {
+  --color-pink-50: #fff1f2;
+  --color-pink-100: #ffe4e6;
+  --color-pink-200: #fecdd3;
+  --color-pink-300: #fda4af;
+  --color-pink-400: #fb7185;
+  --color-pink-500: #f43f5e;
+  --color-pink-600: #e11d48;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
